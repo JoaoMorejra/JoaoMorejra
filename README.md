@@ -1,6 +1,6 @@
 # 👋 Hi There, I'm João Moreira!
 
-🎓 Undergraduate student of **Electrical Engineering** at the **UNIFEI**.<br>
+🎓 Undergraduate student of **Electrical Engineering** at **UNIFEI**.<br>
 🐝 Former Hardware Team Leader at @Black-Bee_drones<br>
 ⚡ Self-taught programming enthusiast, constantly exploring new frontiers and forging my own path through code.
 
@@ -18,9 +18,10 @@
 
 <div align="center">
   <a href="https://github.com/JoaoMorejra">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoMorejra&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMorejra&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
   </a>
 </div>
+
 ---
 
 ## 🏗️ Contributions
@@ -39,7 +40,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomorejra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaomoreirraa@gmail.com)
+---
 
-<br>
-
-🦾 *"Talk is cheap. Show me the code!"*
+🦾 *"Talk is cheap. Show me the code."*
