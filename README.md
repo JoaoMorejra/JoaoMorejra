@@ -1,7 +1,7 @@
 # 👋 Hi There, I'm João Moreira!
 
 🎓 Undergraduate student of **Electrical Engineering** at **UNIFEI**.<br>
-🐝 Former Hardware Team Leader at @Black-Bee_drones<br>
+🐝 Former Hardware Team Leader at @Black-Bee-Drones<br>
 ⚡ Self-taught programming enthusiast, constantly exploring new frontiers and forging my own path through code.
 
 ---
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoMorejra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMorejra&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=JoaoMorejra&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
 </div>
 
