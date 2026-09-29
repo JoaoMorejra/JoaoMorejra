@@ -2,7 +2,7 @@
 
 🎓 Undergraduate student of **Electrical Engineering** at **UNIFEI**.<br>
 🐝 Former Hardware Team Leader at @Black-Bee-Drones<br>
-⚡ Self-taught programming enthusiast, constantly exploring new frontiers and forging my own path through code.
+🤖 Research and Development Intern at Tech For Humans.
 
 ---
 
@@ -18,7 +18,10 @@
 
 <div align="center">
   <a href="https://github.com/JoaoMorejra">
-    <img src="https://github-readme-stats.shion.dev/api?username=JoaoMorejra&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=JoaoMorejra&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/JoaoMorejra">
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoMorejra&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   </a>
 </div>
 
@@ -40,6 +43,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomorejra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaomoreirraa@gmail.com)
+
 ---
 
 🦾 *"Talk is cheap. Show me the code."*
